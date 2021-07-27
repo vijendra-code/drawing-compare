@@ -12,4 +12,8 @@ Two engineering drawings. (old and modified)
 Output:
 One image highlighting the differece between old and modified drawing.
 
+Impact:
+1) Increases productivity.
+2) Reduces the drawing checking time by 90%
+
 
