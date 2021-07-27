@@ -1,5 +1,5 @@
 # Drawing Compare
-This is a simple python code to compare two drawings. It compares the two drawings pixel by pixel and highlights the difference in the drawing in a different color.
+This is a simple python code to compare two drawings. It converts the drawings in image and compares the images pixel by pixel and highlights the difference.
 
 Problem Description:
  - In OEMs like automobile companies, for every part an engineering drawing is created. Engineering drawing has all the important dimensions, material, surface treatment details etc. of the part. Every engineering drawing is released by the part designer in the system. That released engineering drawing is reffered by the manufacturere/supplier to make the part. Due to field issues or MFG comments, the engineering drawing goes through modifications and it's modified version is again released in the system by the designer.
